@@ -1,0 +1,4 @@
+*.pyc
+__pycache__/
+database.db
+nohup.out
